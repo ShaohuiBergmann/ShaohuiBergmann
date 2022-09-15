@@ -14,7 +14,7 @@
 </p>
 
 
-<h3 align="left">FrontEnd:</h3>
+##FrontEnd:
 <p align="left"> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"  /> </a> 
 &nbsp;
