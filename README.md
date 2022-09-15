@@ -14,7 +14,7 @@
 </p>
 
 
-##FrontEnd:
+## FrontEnd:
 <p align="left"> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"  /> </a> 
 &nbsp;
@@ -33,7 +33,7 @@
    
 
 
-<h3 align="left">BackEnd:</h3>
+## BackEnd:
 <p align="left"> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>  &nbsp;
