@@ -24,7 +24,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-    evicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
      <a href="https://handlebarsjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="40" height="40"/> </a> &nbsp; 
      <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jquery.png" alt="jQuery" width="40" height="40"/> </a> &nbsp;
      <a href="https://socket.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/> </a> &nbsp;
