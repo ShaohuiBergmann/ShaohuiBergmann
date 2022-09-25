@@ -4,7 +4,7 @@
 
 🌱 &nbsp; Working on **my portfolio**.
 
-🧮 &nbsp;Currently learning: **TypeScript, React**.
+🧮 &nbsp;Currently learning: **TypeScript, React, Tailwind, Next.js**.
 
 
 <h3 align="left">Let's keep in touch: </h3>
