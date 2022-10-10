@@ -50,7 +50,7 @@
 
 
 
-##Content Management System
+## Content Management System:
 <a href="https://www.sanity.io/"><img src="https://raw.githubusercontent.com/sanity-io/design/next/apps/docs/public/favicon.ico" alt="sanity" width="40" height="40"/></a>
 
 <br/>
