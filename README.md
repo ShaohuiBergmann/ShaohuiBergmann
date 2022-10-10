@@ -27,6 +27,7 @@
      <a href="https://handlebarsjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="40" height="40"/> </a> &nbsp; 
      <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jquery.png" alt="jQuery" width="40" height="40"/> </a> &nbsp;
      <a href="https://socket.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/> </a> &nbsp;
+       <a href="https://nextjs.org/docs/getting-started" target="_blank"> <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="next.js" width="40" height="40"/> </a> &nbsp;
        
 </p>
     
