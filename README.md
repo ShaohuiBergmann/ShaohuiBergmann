@@ -1,10 +1,10 @@
 
 <h1 align="left">Shaohui Bergmann</h1>
-<h3 align="left">Hi! I am Shaohui, a Berlin based full stack web developer with a background in English language.</h3>
+<h3 align="left">Hi! I am Shaohui, a Berlin based full stack web developer.</h3>
 
 🌱 &nbsp; Working on **my portfolio**.
 
-🧮 &nbsp;Currently learning: **TypeScript, React, Tailwind, Next.js, Sanity.io**.
+🧮 &nbsp;Currently learning: **TypeScript, React, Tailwind, Next.js, Python.
 
 
 <h3 align="left">Let's keep in touch: </h3>
